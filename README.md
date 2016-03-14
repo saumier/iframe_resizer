@@ -1,6 +1,6 @@
 # IframeResizer
 
-
+Gem wrapper for https://github.com/davidjbradshaw/iframe-resizer.  Keep same and cross domain iFrames sized to their content with support for window/content resizing, in page links, nesting and multiple iFrames.
 
 ## Installation
 
@@ -24,7 +24,6 @@ For Rails, inside application.js, add:
 
 // for host
 //= require iframeResizer.min
-
 // for iframe client
 //= require iframeResizer.contentWindow.min
 
