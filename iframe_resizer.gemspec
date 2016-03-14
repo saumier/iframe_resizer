@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "iframeResizer js package"
   spec.description   = "iframeResizer js package using http://davidjbradshaw.github.io/iframe-resizer/"
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://bitbucket.org/saumier/iframe_resizer/"
 
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
