@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Gregory Saumier-Finch"]
   spec.email         = ["saumierfinch@gmail.com"]
 
-  spec.summary       = "iframeResizer js package"
-  spec.description   = "iframeResizer js package using http://davidjbradshaw.github.io/iframe-resizer/"
-  spec.homepage      = "https://bitbucket.org/saumier/iframe_resizer/"
+  spec.summary       = "iframeResizer javascript Gem"
+  spec.description   = "iframeResizer javascript Gem using http://davidjbradshaw.github.io/iframe-resizer/"
+  spec.homepage      = "https://github.com/saumier/iframe_resizer"
 
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
